@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_CONFIRM</name>
+   <tag></tag>
+   <elementGuidId>ab085c1a-0f17-4643-b948-0fb53732e524</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-modal-body > div.ant-space.ant-space-horizontal.ant-space-align-center.Space__SpaceWrapper-sc-mc78sm-0.brrOmR > div.ant-space-item > button.ant-btn.ant-btn-default.Button__DefaultButton-sc-1jltwde-0.Button__GreenButton-sc-1jltwde-4.jTffPG.gjTbms</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[120]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>62528528-2454-4047-8318-fe8d4aec7087</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0ca93f4f-68fe-4e8e-b81a-de4da5d073b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default Button__DefaultButton-sc-1jltwde-0 Button__GreenButton-sc-1jltwde-4 jTffPG gjTbms</value>
+      <webElementGuid>685be3f1-81fd-4daa-ad10-20a7790937e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ant-click-animating-without-extra-node</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>00e525cf-47b0-4aef-a305-d8ee193763f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CONFIRM</value>
+      <webElementGuid>0981450d-3800-425e-ad95-a8c426532366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[10]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal Modal__ModalWrapper-sc-qgt8ar-0 huOiwQ&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;ant-space ant-space-horizontal ant-space-align-center Space__SpaceWrapper-sc-mc78sm-0 brrOmR&quot;]/div[@class=&quot;ant-space-item&quot;]/button[@class=&quot;ant-btn ant-btn-default Button__DefaultButton-sc-1jltwde-0 Button__GreenButton-sc-1jltwde-4 jTffPG gjTbms&quot;]</value>
+      <webElementGuid>28ae10fd-65f3-4771-b4df-db1822a46dae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[120]</value>
+      <webElementGuid>93bb9d05-5cbd-48c3-ab62-1ef380e4d94d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>b2d7739a-d29f-4cc4-99c4-bdb0fcd8c2ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All-day'])[1]/following::button[2]</value>
+      <webElementGuid>1c413397-6b9f-4435-bea0-3eabbd7f32ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>1e398458-1adb-4ab6-919d-f508b71fc921</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'CONFIRM' or . = 'CONFIRM')]</value>
+      <webElementGuid>2fa944e5-002f-475e-a29b-a55164c01669</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

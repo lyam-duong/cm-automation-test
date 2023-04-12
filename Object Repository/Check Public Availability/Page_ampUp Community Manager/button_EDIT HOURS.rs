@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_EDIT HOURS</name>
+   <tag></tag>
+   <elementGuidId>c5eee832-3755-4dcd-87b2-202214730ab2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-default.Button__DefaultButton-sc-1jltwde-0.Button__GreenButton-sc-1jltwde-4.jTffPG.gjTbms</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[117]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4fa01ee9-d90c-429a-95f6-77bfd4f8ab02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>12ba236c-01f0-42e5-bb33-88c9bac42e3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default Button__DefaultButton-sc-1jltwde-0 Button__GreenButton-sc-1jltwde-4 jTffPG gjTbms</value>
+      <webElementGuid>097ef9cf-7512-454d-9599-ac421c74e0f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EDIT HOURS</value>
+      <webElementGuid>c98a8985-76c1-4c4b-9bb0-dbffce590749</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LocationSettingsForm&quot;)/div[@class=&quot;ant-space ant-space-vertical Space__SpaceWrapper-sc-mc78sm-0 dDQMXX&quot;]/div[@class=&quot;ant-space-item&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-24 ant-col-lg-8&quot;]/div[@class=&quot;ant-space ant-space-vertical Space__SpaceWrapper-sc-mc78sm-0 dDQMXX&quot;]/div[@class=&quot;ant-space-item&quot;]/div[@class=&quot;ant-form-item ant-form-item-has-success&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;indexstyled__DivLocationCardWrapper-sc-kkj6g9-0 jFhrXa&quot;]/div[@class=&quot;ant-space ant-space-horizontal ant-space-align-center Space__SpaceWrapper-sc-mc78sm-0 brrOmR&quot;]/div[@class=&quot;ant-space-item&quot;]/button[@class=&quot;ant-btn ant-btn-default Button__DefaultButton-sc-1jltwde-0 Button__GreenButton-sc-1jltwde-4 jTffPG gjTbms&quot;]</value>
+      <webElementGuid>ff859ec6-35fc-453c-8f9b-4d69ab1ec82c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[117]</value>
+      <webElementGuid>748a4c8a-53e9-4fb1-af28-b2774dc132e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='LocationSettingsForm']/div/div[2]/div/div[2]/div/div/div/div/div/div/div/div/div[2]/div/button</value>
+      <webElementGuid>4d962d2d-7e9e-46eb-8388-8e48122cd611</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Available 24/7'])[1]/following::button[1]</value>
+      <webElementGuid>5c54216a-378f-4811-9cd1-da539d7404b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PUBLIC AVAILABILITY'])[1]/following::button[1]</value>
+      <webElementGuid>5fa9f555-a77c-4423-9d96-a6c13cc5aee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APPLY CHANGES'])[1]/preceding::button[1]</value>
+      <webElementGuid>49f799cc-e53f-46c2-bdd3-399d69dbb3fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>b92ea59b-c422-43a1-940d-7a1ba4ce80aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'EDIT HOURS' or . = 'EDIT HOURS')]</value>
+      <webElementGuid>7e2b5527-f5b6-4896-99bb-8e141288573d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

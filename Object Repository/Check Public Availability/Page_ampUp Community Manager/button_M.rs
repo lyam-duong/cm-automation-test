@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_M</name>
+   <tag></tag>
+   <elementGuidId>51be8684-504b-41c6-a285-e8487533c96f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.day-selector.r.r-ct.mt-2 > button.ant-btn.ant-btn-default.Button__DefaultButton-sc-1jltwde-0.jTffPG</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[119]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8b9399e3-b429-41bf-9916-dd8270f3fc8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>01f5a0fb-e1ad-465c-8ac8-14d64d269fdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default Button__DefaultButton-sc-1jltwde-0 jTffPG</value>
+      <webElementGuid>63b6f971-6924-4ce1-8825-10c72276d213</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>M</value>
+      <webElementGuid>b86d71c6-17f9-4e03-b4cc-f67259b927df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[10]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal Modal__ModalWrapper-sc-qgt8ar-0 huOiwQ&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;PublicAvailabilityFeature__ScheduleControllerWrapper-sc-193bap7-1 eywJQq&quot;]/div[@class=&quot;day-controller&quot;]/div[@class=&quot;day-selector r r-ct mt-2&quot;]/button[@class=&quot;ant-btn ant-btn-default Button__DefaultButton-sc-1jltwde-0 jTffPG&quot;]</value>
+      <webElementGuid>3a9210f7-0496-422a-bc66-4b967e71b694</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[119]</value>
+      <webElementGuid>17b011b8-db47-49f1-89f4-06f6b44137e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select days'])[1]/following::button[1]</value>
+      <webElementGuid>ae15c471-6d9a-45f4-a319-9c7935219eca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHARGER AVAILABILITY'])[1]/following::button[1]</value>
+      <webElementGuid>4fee0d68-9577-43ae-9730-d17a53dee41f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T'])[1]/preceding::button[1]</value>
+      <webElementGuid>8b9362dc-884c-436e-a01c-daf683c951e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/button</value>
+      <webElementGuid>617515aa-64f6-4038-bc1e-0182dfbbe1ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'M' or . = 'M')]</value>
+      <webElementGuid>39740cc5-7f77-47d6-980a-178e7976820b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

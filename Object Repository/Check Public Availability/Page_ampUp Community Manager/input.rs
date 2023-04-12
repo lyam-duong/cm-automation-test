@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input</name>
+   <tag></tag>
+   <elementGuidId>ce5bbefa-a9c3-4014-bcb3-e1615357a055</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.time-controller > div.ant-space > div:first-child input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>324d375d-15bb-435c-9637-134cb2958224</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>tel</value>
+      <webElementGuid>34fdad02-3d37-4c94-9863-d22795d7a83a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>8:00</value>
+      <webElementGuid>a19dcdf2-b55d-4efa-bdb0-852dded95b93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[10]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal Modal__ModalWrapper-sc-qgt8ar-0 huOiwQ&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;PublicAvailabilityFeature__ScheduleControllerWrapper-sc-193bap7-1 eywJQq&quot;]/div[@class=&quot;time-controller&quot;]/div[@class=&quot;ant-space ant-space-horizontal ant-space-align-center Space__SpaceWrapper-sc-mc78sm-0 dDQMXX&quot;]/div[@class=&quot;ant-space-item&quot;]/div[@class=&quot;ant-space ant-space-vertical Space__SpaceWrapper-sc-mc78sm-0 dDQMXX PublicAvailabilityFeature__TimeControllerWrapper-sc-193bap7-2 kRHWrT&quot;]/div[@class=&quot;ant-space-item&quot;]/div[@class=&quot;ant-space ant-space-horizontal ant-space-align-center Space__SpaceWrapper-sc-mc78sm-0 dDQMXX&quot;]/div[@class=&quot;ant-space-item&quot;]/input[1]</value>
+      <webElementGuid>4e5d7e62-9e02-400a-b4d1-352822ba0d8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='8:00']</value>
+      <webElementGuid>8a1cc410-7459-4465-838d-88b5bc752d36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/input</value>
+      <webElementGuid>4cc7a777-c8d8-4b9c-96d9-5ca1f634ff04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'tel']</value>
+      <webElementGuid>abe55613-c33c-4278-8be7-950de83d19d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

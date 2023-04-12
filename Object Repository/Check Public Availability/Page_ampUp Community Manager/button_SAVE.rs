@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_SAVE</name>
+   <tag></tag>
+   <elementGuidId>3ee1efef-5202-44d1-901e-dfe5728a23d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'SAVE' or . = 'SAVE')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-modal-body > div.ant-space.ant-space-horizontal.ant-space-align-center.Space__SpaceWrapper-sc-mc78sm-0.brrOmR > div.ant-space-item > button.ant-btn.ant-btn-default.Button__DefaultButton-sc-1jltwde-0.Button__GreenButton-sc-1jltwde-4.jTffPG.gjTbms</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3e6f3e05-186d-4570-9e93-cc11e18ad944</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>37d4afb1-d207-412a-891e-ae47209d0b10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default Button__DefaultButton-sc-1jltwde-0 Button__GreenButton-sc-1jltwde-4 jTffPG gjTbms</value>
+      <webElementGuid>261e3f8c-fa06-422a-a120-2e18ab2cfda6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SAVE</value>
+      <webElementGuid>443f8c5e-ebf2-42ca-a1e5-8af148c5b767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[10]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal Modal__ModalWrapper-sc-qgt8ar-0 huOiwQ&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;ant-space ant-space-horizontal ant-space-align-center Space__SpaceWrapper-sc-mc78sm-0 brrOmR&quot;]/div[@class=&quot;ant-space-item&quot;]/button[@class=&quot;ant-btn ant-btn-default Button__DefaultButton-sc-1jltwde-0 Button__GreenButton-sc-1jltwde-4 jTffPG gjTbms&quot;]</value>
+      <webElementGuid>d00005b3-63e7-4825-8496-4a97c1f6092d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[128]</value>
+      <webElementGuid>251e553d-b031-46af-870f-57b04854202a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>aff98d20-5e24-4b86-b6b8-3a86cb3817c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monday'])[1]/following::button[3]</value>
+      <webElementGuid>5d666f35-7789-4375-afeb-6422d800d671</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>5b37b353-24ee-4dd6-9ce8-ead30df927d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'SAVE' or . = 'SAVE')]</value>
+      <webElementGuid>043ffecf-fb9c-45d8-b769-16a4c444a2f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

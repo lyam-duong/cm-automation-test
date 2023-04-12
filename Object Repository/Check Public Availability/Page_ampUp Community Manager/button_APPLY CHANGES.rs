@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_APPLY CHANGES</name>
+   <tag></tag>
+   <elementGuidId>18065a47-ed56-4145-83ff-f602785a7067</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-default.Button__DefaultButton-sc-1jltwde-0.Button__GreenButton-sc-1jltwde-4.fbxucM.gjTbms.button-apply-changes</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>93b0441a-2f99-4d95-baca-fda5884bfd36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>2318c946-63e9-4390-bef9-156aa5e354ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default Button__DefaultButton-sc-1jltwde-0 Button__GreenButton-sc-1jltwde-4 fbxucM gjTbms button-apply-changes</value>
+      <webElementGuid>19f28b57-a821-465a-9178-ff1e6006935c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>APPLY CHANGES</value>
+      <webElementGuid>9addce8a-4c21-4f6f-96c9-52cbf4d289cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LocationSettingsForm&quot;)/div[@class=&quot;ant-col ant-col-24&quot;]/div[@class=&quot;ant-form-item ant-form-item-has-success&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/button[@class=&quot;ant-btn ant-btn-default Button__DefaultButton-sc-1jltwde-0 Button__GreenButton-sc-1jltwde-4 fbxucM gjTbms button-apply-changes&quot;]</value>
+      <webElementGuid>bbfbcfce-54f2-4fc7-9d52-138885507418</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>7ba9bf15-6c50-4899-9df6-1a5b25f22116</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='LocationSettingsForm']/div[2]/div/div/div/div/div/button</value>
+      <webElementGuid>32f4e97a-ab5a-4e3f-8f06-04cafd369f47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EDIT HOURS'])[1]/following::button[1]</value>
+      <webElementGuid>5e0f021e-4d9a-4386-98ad-278a38b8ec27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wednesday'])[1]/following::button[2]</value>
+      <webElementGuid>4e7ba44b-5829-4599-bb5a-a1a7b48a8576</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div/div/div/div/div/button</value>
+      <webElementGuid>0c6f6ce6-07a3-4b21-93bb-9e629c324f0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'APPLY CHANGES' or . = 'APPLY CHANGES')]</value>
+      <webElementGuid>b9494a98-3ec1-4da2-8330-ca194c819342</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

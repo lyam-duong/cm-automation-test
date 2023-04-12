@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_All-day</name>
+   <tag></tag>
+   <elementGuidId>925136d4-5bac-4e3f-8f7e-990d43fba021</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='LocationSettingsForm']/div/div[2]/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/table/tr/td[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f0cb6af6-93d4-406b-930d-9ac427a3aa5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Text__TextWrapper-sc-1p1o7kt-0 cCJyqj</value>
+      <webElementGuid>c476627c-6a2a-421b-92c4-f4f0a0134ea5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All-day</value>
+      <webElementGuid>c690366b-c2c2-46ab-8e60-1be1b77efe9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LocationSettingsForm&quot;)/div[@class=&quot;ant-space ant-space-vertical Space__SpaceWrapper-sc-mc78sm-0 dDQMXX&quot;]/div[@class=&quot;ant-space-item&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-24 ant-col-lg-8&quot;]/div[@class=&quot;ant-space ant-space-vertical Space__SpaceWrapper-sc-mc78sm-0 dDQMXX&quot;]/div[@class=&quot;ant-space-item&quot;]/div[@class=&quot;ant-form-item ant-form-item-has-success&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;indexstyled__DivLocationCardWrapper-sc-kkj6g9-0 jFhrXa&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[1]/table[@class=&quot;PublicAvailabilityFeature__ScheduleTableWrapper-sc-193bap7-0 gqnOlV&quot;]/tr[1]/td[2]/span[@class=&quot;Text__TextWrapper-sc-1p1o7kt-0 cCJyqj&quot;]</value>
+      <webElementGuid>d5d28ef1-edc4-42a0-ab7b-5a7923ac178b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='LocationSettingsForm']/div/div[2]/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/table/tr/td[2]/span</value>
+      <webElementGuid>aa57afa3-bcc6-450c-99f2-3f5d13bbfb44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monday'])[1]/following::span[1]</value>
+      <webElementGuid>1d4041b9-4452-428d-ba11-63688296b51a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PUBLIC AVAILABILITY'])[1]/following::span[1]</value>
+      <webElementGuid>af00aba2-03bb-4117-83a9-ea1ba928073f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EDIT HOURS'])[1]/preceding::span[1]</value>
+      <webElementGuid>4a16b0a7-dd84-48b7-a345-d8c74adbced1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APPLY CHANGES'])[1]/preceding::span[2]</value>
+      <webElementGuid>b5142647-814f-4118-838b-52664bce1b21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='All-day']/parent::*</value>
+      <webElementGuid>c04359e1-0059-4d56-93d9-c15cf0aca999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/span</value>
+      <webElementGuid>4b020549-7528-4f4c-91a5-aa71f574339d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'All-day' or . = 'All-day')]</value>
+      <webElementGuid>73f71315-151a-402e-96f6-80772bbac768</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
